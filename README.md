@@ -16,19 +16,19 @@ PS4:
 Current progress:
 
 PS5:
-  - Kernel exploit has a stunning ~3% success rate -_-
-  - Working debug settings opener
-  - Working remote PKG installer
-  - Full access FTP server (on non jailbroken and jailbroken consoles)
-  - Working Bin loader
+  - Kernel exploit has a stunning ~8% success rate -_-🟡
+  - Working debug settings opener✅
+  - Working remote PKG installer✅
+  - Full access FTP server (on non jailbroken and jailbroken consoles)✅
+  - Working Elf loader✅
   - Our goals:
-  - Debug trophies support
-  - never disable screenshot / video support
-  - FW update block
-  - Integrated cheat menus
-  - Homebrew enabler (like etaHEN but we need the raw code to work on import and support)
-  - Auto PKG installer for PS5 (goal is to get this to work like the one for PS4)
-  - other Plugins
+  - Debug trophies support✅
+  - never disable screenshot / video support✅
+  - FW update block🟡
+  - Integrated cheat menus🟡
+  - Homebrew enabler (like etaHEN but we need the raw code to work on import and support)❌
+  - Auto PKG installer for PS5 (goal is to get this to work like the one for PS4)❌
+  - other Plugins❌
     
 PS4:
   - Working kernel exploit for 12.50 and 12.52 with success rate of ~20%
